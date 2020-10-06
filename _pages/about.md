@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: MengmeiYe.png
+  image: Mengmei_Ye.jpeg
   address: >
     <p>CoRE 533</p>
     <p>96 Frelinghuysen Rd</p>
@@ -14,8 +14,8 @@ profile:
     <p>Email: mengmei.ye [at] rutgers.edu</p>
 
 news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am a `Ph.D. Candidate'21` in the Department of [ECE](https://www.ece.rutgers.edu/) at Rutgers University. I am very fortunate to be advised by [Dr. Sheng Wei](http://eceweb1.rutgers.edu/~sw891/) and work with our collaborators and colleagues. My research has been focused on CPU-FPGA heterogeneous systems, including resolving the following issues:
