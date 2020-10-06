@@ -10,8 +10,8 @@ last_name: Ye
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ph.D. Candidate'21, ECE@Rutgers.
 footer_text: >
-  Designed by @al-folio.
-
+  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
