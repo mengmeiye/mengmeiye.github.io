@@ -168,7 +168,6 @@ blockquote {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
-
     p {
       display: inline-block;
       margin: 0;
@@ -819,7 +818,7 @@ pre {
 }
 
 code {
-  color: var(--global-theme-color);
+  color: var(--global-highlight-color);
   background-color: var(--global-code-bg-color);
   border-radius: 3px;
   padding: 3px 3px;

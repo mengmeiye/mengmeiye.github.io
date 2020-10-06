@@ -1,26 +1,40 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: Mengmei_Ye.jpeg
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+[LinkedIn](https://www.linkedin.com/in/mengmei-ye/){:target="_blank"} <b>|</b> [Google Scholar](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"} <b>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<!-- <h6>Research Staff Member-Cloud Security</h6>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<h6>IBM T.J. Watson Research Center</h6>
+
+<h6>Education: PhD, Department of Electrical and Computer Engineering, Rutgers University - New Brunswick </h6> -->
+
+I am a Staff Research Scientist working on <b>Confidential Computing</b> and <b>Cloud Infrastructure</b> at IBM Research. I received my Ph.D. degree from Rutgers University - New Brunswick in Electrical and Computer Engineering in 2021 (advisor: Prof. Sheng Wei). 
+
+I have published research works in top-tier conferences such as ACSAC, DAC, ICCAD, HOST, IEEE CLOUD, and KVM Forum. My papers have been recognized with a `Distinguished Paper with Artifacts Award` at ACSAC 2023, a `Best Paper Nomination` at IEEE HOST 2018, and a `Best Paper Award` at IEEE ICCD 2016. 
+
+Email: m y e [ a t ] i b m . c o m
+
+
+
+<!-- <h4><b>Recent News</b></h4>
+
+I'm currently co-organizing a workshop on Zero Trust Hardware Architectures (ZTHA'22) co-located with [ICCAD](https://iccad.com/){:target="_blank"}. 
+
+The program schedule has been posted in: 
+[https://zerotrustworkshopiccad.github.io/program.html](https://zerotrustworkshopiccad.github.io/program.html){:target="_blank"}
+
+Please attend our workshop by registering through
+[https://iccad.com/registration/](https://iccad.com/registration/){:target="_blank"} -->
