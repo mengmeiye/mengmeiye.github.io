@@ -6,19 +6,28 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: MengmeiYe.png
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>CoRE 533</p>
+    <p>96 Frelinghuysen Rd</p>
+    <p>Piscataway, NJ 08854</p>
+    <p>Email: mengmei.ye [at] rutgers.edu</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a `Ph.D. Candidate'21` in the Department of [ECE](https://www.ece.rutgers.edu/) at Rutgers University. I am very fortunate to be advised by [Dr. Sheng Wei](http://eceweb1.rutgers.edu/~sw891/) and work with our collaborators and colleagues. My research has been focused on CPU-FPGA heterogeneous systems, including resolving the following issues:
+- `Security/privacy concerns` by leveraging hardware isolation techniques (e.g., ARM TrustZone and Intel SGX).
+- `Programming challenges` to partition programs and minimize the trusted computing base in the hardware isolation-based platforms.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In particular, I am interested in offloading/partitioning compute-intensive applications (e.g., DNN execution) in mobile/IoT devices with security/privacy properties onto accelerators (e.g., FPGA) in edge/cloud platforms. I am also interested in applying the security techniques to support confidential computations in healthcare systems. Here is my professional summary: 
+- 10 peer-reviewed publications (5 first-author conference papers, 2 first-author workshop papers, 1 second-author journal, and 2 second-author workshop papers)
+- 2.5-year teaching experience and 2 mentoring experiences
+- Selected awards
+  - `Best Paper Award` in “Test, Verification, and Security” Track, IEEE International Conference on Computer Design (ICCD), October 2016.
+  - `Best Paper Nomination`, IEEE International Symposium on Hardware Oriented Security and Trust (HOST), May 2018.
+  - `Samsung Breakthroughs That Matter Award`, MIT Hacking Medicine Grand Hack, May 2019. (media coverage: Bloomberg, Samsung Business Insights, etc.)
+- 13 presentations (4 invited talks/panels, 4 oral presentations, and 5 poster presentations)
+- Reviewer for 5 conferences/journals
