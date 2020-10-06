@@ -121,25 +121,25 @@ plugins:
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
-scholar:
+# scholar:
 
-  last_name: Ye
+#   last_name: Ye
 
-  style: apa
-  locale: en
+#   style: apa
+#   locale: en
 
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
+#   source: /_bibliography/
+#   bibliography: papers.bib
+#   bibliography_template: bib
 
-  replace_strings: true
-  join_strings: true
+#   replace_strings: true
+#   join_strings: true
 
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
+#   details_dir: bibliography
+#   details_layout: bibtex.html
+#   details_link: Details
 
-  query: "@*"
+#   query: "@*"
 
 # -----------------------------------------------------------------------------
 # Optional Features
