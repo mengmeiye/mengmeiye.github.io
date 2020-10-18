@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I am a `Ph.D. Candidate'21` in the [Department of ECE at Rutgers University](https://www.ece.rutgers.edu/). I am very fortunate to be advised by [Dr. Sheng Wei](http://eceweb1.rutgers.edu/~sw891/) and work with our collaborators and colleagues. My research interests focus on the following areas: 
-- `Hardware security` by leveraging hardware isolation techniques (e.g., ARM TrustZone and Intel SGX) on CPU-FPGA heterogeneous systems.
+- `Program/data confidentiality and integrity` by leveraging hardware isolation techniques (e.g., ARM TrustZone and Intel SGX) on CPU-FPGA heterogeneous systems.
 - `Program partitioning` to minimize the trusted computing base in the hardware isolation-based platforms. 
 
 In particular, I am interested in offloading/partitioning compute-intensive applications (e.g., DNN execution) in mobile/IoT devices with security/privacy properties onto accelerators (e.g., FPGA) in edge/cloud platforms. I am also interested in applying the security techniques to support confidential computations in healthcare systems.
