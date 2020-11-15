@@ -1,3 +1,4 @@
+<<<<<<< HEAD
             {%- if site.email -%}
             <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
             {% endif %}
@@ -116,3 +117,9 @@
             </div>
             {% include scripts/wechatModal.html %}
             {% endif %}
+=======
+<span class="contact-icon text-center">
+  {% if site.scholar_userid %}<a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>{% endif %}
+  {% if site.linkedin_username %}<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>{% endif %}
+</span>
+>>>>>>> e148afb (update format)
