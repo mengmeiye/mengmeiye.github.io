@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a `Ph.D. Candidate'21` in the [Department of ECE at Rutgers University](https://www.ece.rutgers.edu/). I am very fortunate to be advised by [Dr. Sheng Wei](http://eceweb1.rutgers.edu/~sw891/) and work with our collaborators and colleagues. My research has been focused on: 
+I am a Ph.D. Candidate'21 in the Department of ECE at Rutgers University. I am very fortunate to be advised by Dr. Sheng Wei and work with our collaborators and colleagues. My research has been focused on: 
 - `Protecting program/data confidentiality and integrity` by leveraging hardware isolation techniques (e.g., ARM TrustZone and Intel SGX) on CPU-FPGA heterogeneous systems.
 - `Partitioning programs` to minimize the trusted computing base in the hardware isolation-based platforms. 
 

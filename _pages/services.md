@@ -11,11 +11,11 @@ nav: true
 Organize your courses by years, topics, or universities, however you like! -->
 
 <h4><b>Reviewer</b></h4>
-- `Design Automation Conference (DAC)`, 2018 – 2020
-- `IEEE Access`, 2020
-- `IEEE Design & Test (D&T)`, 2020
-- `IEEE Transactions on Dependable and Secure Computing (TDSC)`, 2019
-- `IEEE Transactions on Industrial Electronics (TIE)`, 2018 – 2019
+- Design Automation Conference (DAC), 2018 – 2020
+- IEEE Access, 2020
+- IEEE Design & Test (D&T), 2020
+- IEEE Transactions on Dependable and Secure Computing (TDSC), 2019
+- IEEE Transactions on Industrial Electronics (TIE), 2018 – 2019
 
 <h4><b>Facilitator</b></h4>	
 20th Annual Nebraska Conference for Undergraduate Women in Mathematics (NCUWM), January 2018

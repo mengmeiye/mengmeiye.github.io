@@ -12,19 +12,19 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 <h4><b>Instructor</b></h4>
 Rutgers University – New Brunswick, Department of Electrical and Computer Engineering
-- `Programming Methodology I`
+- Programming Methodology I
   - Summer 2020 (22 students)
   - Summer 2019 (11 students)
 
 
 <h4><b>Graduate Teaching Assistant</b></h4>
 Rutgers University – New Brunswick, Department of Electrical and Computer Engineering
-- `Computer Architecture and Assembly Code`
+- Computer Architecture and Assembly Code
   - Fall 2020 (<b>Lead TA</b>, 191 students in lecture section, and 68 students in lab section)
   - Fall 2019 (<b>Lead TA</b>, 146 students in lecture section, and 67 students in lab section)
   - Spring 2019 (65 students in lecture section, and 50 students in lab section)
   - Fall 2018 (177 students in lecture section, and 24 students in lab section)
-- `Programming Methodology I`
+- Programming Methodology I
   - Spring 2020 (149 students in lecture section, and 40 students in lab section)
 
 <h4><b>Mentor</b></h4>
