@@ -22,15 +22,14 @@ I am a `Ph.D. Candidate'21` in the [Department of ECE at Rutgers University](htt
 - `Protecting program/data confidentiality and integrity` by leveraging hardware isolation techniques (e.g., ARM TrustZone and Intel SGX) on CPU-FPGA heterogeneous systems.
 - `Partitioning programs` to minimize the trusted computing base in the hardware isolation-based platforms. 
 
-
 In particular, I am interested in offloading/partitioning compute-intensive applications (e.g., DNN execution) in mobile/IoT devices with security/privacy properties onto accelerators (e.g., FPGA) in edge/cloud platforms. I am also interested in applying the security techniques to support confidential computations in healthcare systems.
 
 Here is my professional summary: 
-- 10 peer-reviewed publications (5 first-author conference papers, 2 first-author workshop papers, 1 second-author journal, and 2 second-author workshop papers)
+- 12 peer-reviewed publications
 - 2.5-year teaching experience and 2 mentoring experiences
 - Selected awards
   - `Best Paper Award` in “Test, Verification, and Security” Track, IEEE International Conference on Computer Design (ICCD), October 2016.
   - `Best Paper Nomination`, IEEE International Symposium on Hardware Oriented Security and Trust (HOST), May 2018.
   - `Samsung Breakthroughs That Matter Award`, MIT Hacking Medicine Grand Hack, May 2019. (media coverage: Bloomberg, Samsung Business Insights, etc.)
-- 13 presentations (4 invited talks/panels, 4 oral presentations, and 5 poster presentations)
+- 13 presentations
 - Reviewer for 5 conferences/journals

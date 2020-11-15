@@ -16,25 +16,29 @@ nav: true
 
 </div> -->
 
-<b><u>Mengmei Ye</u></b>, Xianglong Feng, Sheng Wei, “Runtime Hardware Security Verification Using Approximate Computing: A Case Study on Video Motion Detection.” IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST), December 2019.
+Xianglong Feng, <b><u>Mengmei Ye</u></b>, Ke Xia, Sheng Wei, "Runtime Fault Injection Detection for FPGA-based DNN Execution Using Siamese Path Verification." Design, Automation and Test in Europe Conference (DATE), to appear, February 2021.  
 
-<b><u>Mengmei Ye</u></b>, Xianglong Feng, Sheng Wei, “HISA: Hardware Isolation-based Secure Architecture for CPU-FPGA Embedded Systems.” International Conference on Computer Aided Design (ICCAD), November 2018. 
+Akshay Gangal, <b><u>Mengmei Ye</u></b>, Sheng Wei, "HybridTEE: Secure Mobile DNN Execution Using Hybrid Trusted Execution Environment." IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST), to appear, December 2020.
+
+<b><u>Mengmei Ye</u></b>, Xianglong Feng, Sheng Wei, "Runtime Hardware Security Verification Using Approximate Computing: A Case Study on Video Motion Detection." IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST), December 2019.
+
+<b><u>Mengmei Ye</u></b>, Xianglong Feng, Sheng Wei, "HISA: Hardware Isolation-based Secure Architecture for CPU-FPGA Embedded Systems." International Conference on Computer Aided Design (ICCAD), November 2018. 
 (Acceptance rate: 98/396 = 24.7%)
 
-<b><u>Mengmei Ye</u></b>, Myra B. Cohen, Witawas Srisa-An, Sheng Wei, “EvoIsolator: Evolving Program Slices for Hardware Isolation Based Security.” Hot off the Press track in Symposium on Search-Based Software Engineering (SSBSE), September 2018.
+<b><u>Mengmei Ye</u></b>, Myra B. Cohen, Witawas Srisa-An, Sheng Wei, "EvoIsolator: Evolving Program Slices for Hardware Isolation Based Security." Hot off the Press track in Symposium on Search-Based Software Engineering (SSBSE), September 2018.
 
-<b><u>Mengmei Ye</u></b>, Jonathan Sherman, Witawas Srisa-an, Sheng Wei, “TZSlicer: Security-Aware Dynamic Program Slicing for Hardware Isolation.” IEEE International Symposium on Hardware Oriented Security and Trust (HOST), May 2018. 
+<b><u>Mengmei Ye</u></b>, Jonathan Sherman, Witawas Srisa-an, Sheng Wei, "TZSlicer: Security-Aware Dynamic Program Slicing for Hardware Isolation." IEEE International Symposium on Hardware Oriented Security and Trust (HOST), May 2018. 
 (Acceptance rate 17/84 = 20.2%. `Best Paper Nomination`)
 
-<b><u>Mengmei Ye</u></b>, Mehrdad Zaker Shahrak, Sheng Wei, “PUFSec: Protecting Physical Unclonable Functions Using Hardware Isolation-based System Security Techniques.” IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST), October 2017. 
+<b><u>Mengmei Ye</u></b>, Mehrdad Zaker Shahrak, Sheng Wei, "PUFSec: Protecting Physical Unclonable Functions Using Hardware Isolation-based System Security Techniques." IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST), October 2017. 
 
-Xianglong Feng, <b><u>Mengmei Ye</u></b>, Viswanathan Swaminathan, Sheng Wei, “Towards the Security of Motion Detection-based Video Surveillance on IoT Devices.” ACM Multimedia Conference - Thematic Workshop, October 2017. 
+Xianglong Feng, <b><u>Mengmei Ye</u></b>, Viswanathan Swaminathan, Sheng Wei, "Towards the Security of Motion Detection-based Video Surveillance on IoT Devices." ACM Multimedia Conference - Thematic Workshop, October 2017. 
 
-<b><u>Mengmei Ye</u></b>, Nan Jiang, Hao Yang, Qiben Yan, “Security Analysis of Internet-of-Things: A Case Study of August Smart Lock.” IEEE INFOCOM - Workshop on the Security, Privacy, and Digital Forensics of Mobile Systems and Networks (MobiSec), May 2017.
+<b><u>Mengmei Ye</u></b>, Nan Jiang, Hao Yang, Qiben Yan, "Security Analysis of Internet-of-Things: A Case Study of August Smart Lock." IEEE INFOCOM - Workshop on the Security, Privacy, and Digital Forensics of Mobile Systems and Networks (MobiSec), May 2017.
 
-<b><u>Mengmei Ye</u></b>, Nianhang Hu, Sheng Wei, “Lightweight Secure Sensing Using Hardware Isolation.” IEEE SENSORS, October 2016.
+<b><u>Mengmei Ye</u></b>, Nianhang Hu, Sheng Wei, "Lightweight Secure Sensing Using Hardware Isolation." IEEE SENSORS, October 2016.
 
-Nianhang Hu, <b><u>Mengmei Ye</u></b>, Sheng Wei, “Surviving Information Leakage Hardware Trojan Attacks Using Hardware Isolation.” IEEE International Conference on Computer Design (ICCD), October 2016.
-(Acceptance rate: 28.8%. `Best Paper Award` in “Test, Verification, and Security” Track. The paper was published in IEEE Transactions on Emerging Topics in Computing (TETC).)
+Nianhang Hu, <b><u>Mengmei Ye</u></b>, Sheng Wei, "Surviving Information Leakage Hardware Trojan Attacks Using Hardware Isolation." IEEE International Conference on Computer Design (ICCD), October 2016.
+(Acceptance rate: 28.8%. `Best Paper Award` in "Test, Verification, and Security" Track. The paper was published in IEEE Transactions on Emerging Topics in Computing (TETC).)
 
-Mehrdad Zaker Shahrak, <b><u>Mengmei Ye</u></b>, Viswanathan Swaminathan, Sheng Wei, “Two-Way Real Time Multimedia Stream Authentication Using Physical Unclonable Functions.” IEEE Workshop on Multimedia Signal Processing (MMSP), September 2016.
+Mehrdad Zaker Shahrak, <b><u>Mengmei Ye</u></b>, Viswanathan Swaminathan, Sheng Wei, "Two-Way Real Time Multimedia Stream Authentication Using Physical Unclonable Functions." IEEE Workshop on Multimedia Signal Processing (MMSP), September 2016.

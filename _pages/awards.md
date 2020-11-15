@@ -16,6 +16,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 - `Samsung Breakthroughs That Matter Award`, MIT Hacking Medicine Grand Hack, May 2019.
   - Selected Media Coverage: [Samsung Business Insights](https://insights.samsung.com/2019/05/17/how-to-bring-secure-cancer-predicting-ai-tools-to-market-faster/), [Samsung Newsroom](https://news.samsung.com/us/samsung-veterans-affairs-mit-hacking-medicine-grand-hack-breakthroughs-that-matter-awards-veterans-health-solutions/) and [Bloomberg](https://www.bloomberg.com/press-releases/2019-05-07/samsung-department-of-veterans-affairs-and-mit-present-breakthroughs-that-matter-awards-for-innovative-veterans-health).
 
+
 - `School of Graduate Studies 2018-2019 Conference Travel Award`, Rutgers University – New Brunswick, Department of Electrical and Computer Engineering, April 2019.
 
 - `Travel Grants` for Students Supported by NSF, IEEE International Symposium on Hardware Oriented Security and Trust (HOST), April 2018.
