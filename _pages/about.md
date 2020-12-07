@@ -32,4 +32,5 @@ Here is my professional summary:
   - `Best Paper Nomination`, IEEE International Symposium on Hardware Oriented Security and Trust (HOST), May 2018.
   - `Samsung Breakthroughs That Matter Award`, MIT Hacking Medicine Grand Hack, May 2019. (media coverage: Bloomberg, Samsung Business Insights, etc.)
 - 13 presentations
+- Shadow program committee member in the 42nd IEEE Symposium on Security and Privacy (S&P'21)
 - Reviewer for 5 conferences/journals
