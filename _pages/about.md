@@ -26,7 +26,7 @@ In particular, I am interested in offloading/partitioning compute-intensive appl
 
 Here is my professional summary: 
 - 12 peer-reviewed publications
-- 2.5-year teaching experience and 2 mentoring experiences
+- 2.5-year teaching experience
 - Selected awards
   - `Best Paper Award` in “Test, Verification, and Security” Track, IEEE International Conference on Computer Design (ICCD), October 2016.
   - `Best Paper Nomination`, IEEE International Symposium on Hardware Oriented Security and Trust (HOST), May 2018.

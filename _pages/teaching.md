@@ -27,9 +27,3 @@ Rutgers University – New Brunswick, Department of Electrical and Computer Engi
 - Programming Methodology I
   - Spring 2020 (149 students in lecture section, and 40 students in lab section)
 
-<h4><b>Mentor</b></h4>
-Weill Cornell Medicine, NYC Health Hackathon, February 2019
-
-<h4><b>Co-Mentor</b> (Software-defined Networking and Security)</h4>
-University of Nebraska – Lincoln, Department of Computer Science and Engineering, Summer Research Program on Internet Security for Undergraduate Students, Summer 2017
-
