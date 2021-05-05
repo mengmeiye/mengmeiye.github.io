@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+# description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -13,9 +13,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-`mengmei.ye [at] rutgers.edu` <b>|</b> [LinkedIn](https://www.linkedin.com/in/mengmei-ye/)
+`mengmei.ye [at] rutgers.edu` <b>|</b> [LinkedIn](https://www.linkedin.com/in/mengmei-ye/){:target="_blank"}
 
-I am a Ph.D. Candidate'21 in the Department of ECE at Rutgers University. I am very fortunate to be advised by [Dr. Sheng Wei](http://eceweb1.rutgers.edu/~sw891/) and work with our collaborators and colleagues. My research has been focused on: 
+I am a Ph.D. Candidate'21 in the Department of ECE at Rutgers University. I am very fortunate to be advised by Prof. Sheng Wei and work with our collaborators and colleagues. My research has been focused on: 
 - <b>Protecting program/data confidentiality and integrity</b> by leveraging hardware isolation techniques (e.g., ARM TrustZone and Intel SGX) on CPU-FPGA heterogeneous systems.
 - <b>Partitioning programs</b> to minimize the trusted computing base in the hardware isolation-based platforms. 
 
