@@ -20,7 +20,7 @@ nav: true
 
 Xianglong Feng, <b><u>Mengmei Ye</u></b>, Ke Xia, Sheng Wei, "Runtime Fault Injection Detection for FPGA-based DNN Execution Using Siamese Path Verification." To appear in Design, Automation and Test in Europe Conference (DATE) 2021.  
 
-Akshay Gangal, <b><u>Mengmei Ye</u></b>, Sheng Wei, "HybridTEE: Secure Mobile DNN Execution Using Hybrid Trusted Execution Environment." IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST) 2020.
+Akshay Gangal, <b><u>Mengmei Ye</u></b>, Sheng Wei, "HybridTEE: Secure Mobile DNN Execution Using Hybrid Trusted Execution Environment." IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST), December 2020.
 (Acceptance rate: 13/48 = 27.1%)
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9358260){:target="_blank"} [[Code]](https://github.com/hwsel/HybridTEE){:target="_blank"}
 
