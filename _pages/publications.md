@@ -16,7 +16,7 @@ nav: true
 
 </div> -->
 
-[[Google Scholar]](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"}
+<!-- [[Google Scholar]](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"} -->
 
 Xianglong Feng, <b><u>Mengmei Ye</u></b>, Ke Xia, Sheng Wei, "Runtime Fault Injection Detection for FPGA-based DNN Execution Using Siamese Path Verification." To appear in Design, Automation and Test in Europe Conference (DATE) 2021.  
 
