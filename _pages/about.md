@@ -4,9 +4,9 @@ title: Home
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-# profile:
-#   align: left
-#   image: Mengmei_Ye.jpeg
+profile:
+  align: right
+  image: Mengmei_Ye.jpeg
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
