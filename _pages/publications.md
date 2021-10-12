@@ -18,7 +18,12 @@ nav: true
 
 <!-- [[Google Scholar]](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"} -->
 
-Xianglong Feng, <b><u>Mengmei Ye</u></b>, Ke Xia, Sheng Wei, "Runtime Fault Injection Detection for FPGA-based DNN Execution Using Siamese Path Verification." To appear in Design, Automation and Test in Europe Conference (DATE) 2021.  
+Xianglong Feng, Yi Xie, <b><u>Mengmei Ye</u></b>, Zhongze Tang, Bo Yuan, Sheng Wei, "Fake Gradient: A Security and Privacy Protection Framework for DNN-based Image Classification." ACM Multimedia Conference (MM), October 2021.
+(Acceptance rate: 542/1942 = 27.9%)
+[[Code]](https://github.com/hwsel/FakeGradient){:target="_blank"}
+
+Xianglong Feng, <b><u>Mengmei Ye</u></b>, Ke Xia, Sheng Wei, "Runtime Fault Injection Detection for FPGA-based DNN Execution Using Siamese Path Verification." Design, Automation and Test in Europe Conference (DATE), February 2021.
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/9473941){:target="_blank"}
 
 Akshay Gangal, <b><u>Mengmei Ye</u></b>, Sheng Wei, "HybridTEE: Secure Mobile DNN Execution Using Hybrid Trusted Execution Environment." IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST), December 2020.
 (Acceptance rate: 13/48 = 27.1%)
