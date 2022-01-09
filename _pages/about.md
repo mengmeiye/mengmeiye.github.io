@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-`mye [at] ibm.com` <b>|</b> [LinkedIn](https://www.linkedin.com/in/mengmei-ye/){:target="_blank"} <b>|</b> [Google Scholar](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"}
+[LinkedIn](https://www.linkedin.com/in/mengmei-ye/){:target="_blank"} <b>|</b> [Google Scholar](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"}
 
 <!-- <h6>Research Staff Member-Cloud Security</h6>
 
