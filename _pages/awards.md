@@ -35,4 +35,3 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 - <b>Acceptance and Travel Grant</b> for Women and Underrepresented Groups, GREPSEC III Workshop, April 2017. 
 
-
