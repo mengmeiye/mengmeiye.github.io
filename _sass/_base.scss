@@ -403,7 +403,8 @@ footer.sticky-bottom {
 
 // Rouge Color Customization
 code {
-  color: var(--global-theme-color);
+  font-size: 1rem;
+  color: var(--global-highlight-color);
 }
 // Transitioning Themes
 html.transition,

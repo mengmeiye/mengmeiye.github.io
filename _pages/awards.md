@@ -30,7 +30,3 @@ Organize your courses by years, topics, or universities, however you like! -->
 - <b>Acceptance and Travel Grant</b> for Women and Underrepresented Groups, GREPSEC III Workshop, April 2017. 
 
 - `Best Paper Award` in the “Test, Verification, and Security” Track, 34th IEEE International Conference on Computer Design (ICCD), October 2016. 
-
-- <b>Dean’s List</b> for the College of Arts and Sciences, University of Nebraska – Lincoln, Fall 2015.
-
-- <b>Academic Scholarship</b>, University of Nebraska – Lincoln, August 2014 – August 2016.
