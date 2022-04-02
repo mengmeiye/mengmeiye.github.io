@@ -20,7 +20,7 @@ nav: true
 
 Xianglong Feng, Yi Xie, <b><u>Mengmei Ye</u></b>, Zhongze Tang, Bo Yuan, Sheng Wei, "Fake Gradient: A Security and Privacy Protection Framework for DNN-based Image Classification." ACM Multimedia Conference (MM), October 2021.
 (Acceptance rate: 542/1942 = 27.9%)
-[[Code]](https://github.com/hwsel/FakeGradient){:target="_blank"}
+[[PDF]](https://dl.acm.org/doi/10.1145/3474085.3475685){:target="_blank"}[[Code]](https://github.com/hwsel/FakeGradient){:target="_blank"}
 
 Xianglong Feng, <b><u>Mengmei Ye</u></b>, Ke Xia, Sheng Wei, "Runtime Fault Injection Detection for FPGA-based DNN Execution Using Siamese Path Verification." Design, Automation and Test in Europe Conference (DATE), February 2021.
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9473941){:target="_blank"}
