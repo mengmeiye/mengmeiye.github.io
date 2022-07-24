@@ -14,7 +14,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 - <b>Travel Grants</b>, IEEE HOST – Women in Hardware and Systems Security Workshop (WISE), May 2019.
 
 - <b>Samsung Breakthroughs That Matter Award</b>, MIT Hacking Medicine Grand Hack, May 2019.
-  - Selected Media Coverage: [Samsung Business Insights](https://insights.samsung.com/2019/05/17/how-to-bring-secure-cancer-predicting-ai-tools-to-market-faster/), [Samsung Newsroom](https://news.samsung.com/us/samsung-veterans-affairs-mit-hacking-medicine-grand-hack-breakthroughs-that-matter-awards-veterans-health-solutions/) and [Bloomberg](https://www.bloomberg.com/press-releases/2019-05-07/samsung-department-of-veterans-affairs-and-mit-present-breakthroughs-that-matter-awards-for-innovative-veterans-health).
+  - <i><u>Selected Media Coverage</u></i> : [Samsung Business Insights](https://insights.samsung.com/2019/05/17/how-to-bring-secure-cancer-predicting-ai-tools-to-market-faster/), [Samsung Newsroom](https://news.samsung.com/us/samsung-veterans-affairs-mit-hacking-medicine-grand-hack-breakthroughs-that-matter-awards-veterans-health-solutions/) and [Bloomberg](https://www.bloomberg.com/press-releases/2019-05-07/samsung-department-of-veterans-affairs-and-mit-present-breakthroughs-that-matter-awards-for-innovative-veterans-health).
 
 
 - <b>Conference Travel Award</b>, Rutgers University – New Brunswick, Department of Electrical and Computer Engineering, April 2019.

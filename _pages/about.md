@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-[LinkedIn](https://www.linkedin.com/in/mengmei-ye/){:target="_blank"} <b>|</b> [Google Scholar](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"}
+[LinkedIn](https://www.linkedin.com/in/mengmei-ye/){:target="_blank"} <b>|</b> [Google Scholar](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"} <b>|</b> [Twitter](https://twitter.com/mengmeiye){:target="_blank"}
 
 <!-- <h6>Research Staff Member-Cloud Security</h6>
 
@@ -21,4 +21,18 @@ social: false  # includes social icons at the bottom of the page
 
 <h6>Education: PhD, Department of Electrical and Computer Engineering, Rutgers University - New Brunswick </h6> -->
 
-I am a Research Staff Member-Cloud Security at IBM T.J. Watson Research Center. I hold a Ph.D. from Rutgers University - New Brunswick in Electrical and Computer Engineering (advisor: [Prof. Sheng Wei](http://eceweb1.rutgers.edu/~sw891/){:target="_blank"}). 
+I am currently a Research Staff Member-Cloud Security at IBM T.J. Watson Research Center. I received my Ph.D. degree from Rutgers University - New Brunswick in Electrical and Computer Engineering (advisor: [Prof. Sheng Wei](http://eceweb1.rutgers.edu/~sw891/){:target="_blank"}). 
+
+
+
+<h4><b>Recent News</b></h4>
+
+I'm currently co-organizing a workshop on Zero Trust Hardware Architectures (ZTHA'22) co-located with [ICCAD](https://iccad.com/){:target="_blank"}. We welcome three types of submissions: 
+- Technical papers with evaluation results
+- Position papers on directions for research and development
+- Review papers
+
+The submission deadline is `August 12, 2022 (AOE)`.
+
+More details can be found in: 
+[https://zerotrustworkshopiccad.github.io/](https://zerotrustworkshopiccad.github.io/){:target="_blank"}

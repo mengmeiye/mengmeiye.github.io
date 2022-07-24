@@ -18,6 +18,15 @@ nav: true
 
 <!-- [[Google Scholar]](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"} -->
 
+<b><u>Mengmei Ye</u></b>, Angelo Ruocco, "No More Turtles: The SecondaryVM Framework - An Alternative to Nested Virtualization." KVM Forum, upcoming September, 2022.
+[[Details]](https://sched.co/15jKi){:target="_blank"}
+
+<b><u>Mengmei Ye</u></b>, Zhongze Tang, Huy Phan, Yi Xie, Bo Yuan, Sheng Wei, "Visual Privacy Pro-tection in Mobile Image Recognition Using Protective Perturbation." ACM Multimedia Systems Conference (MMSys), June 2022.
+[[PDF]](https://github.com/hwsel/ProtectivePerturbation/blob/main/paper/Paper-Protective_Perturbation-MMSys22.pdf){:target="_blank"}[[Code]](https://github.com/hwsel/ProtectivePerturbation){:target="_blank"}
+
+Jaime H. Moreno, Hubertus Franke, Paul Crumley, <b><u>Mengmei Ye</u></b>, "Calling for the Return of Non-Virtualized Microprocessor Systems." ACM SIGARCH, May 2022. 
+[[Blog Link]](https://www.sigarch.org/calling-for-the-return-of-non-virtualized-microprocessor-systems/){:target="_blank"}
+
 Xianglong Feng, Yi Xie, <b><u>Mengmei Ye</u></b>, Zhongze Tang, Bo Yuan, Sheng Wei, "Fake Gradient: A Security and Privacy Protection Framework for DNN-based Image Classification." ACM Multimedia Conference (MM), October 2021.
 (Acceptance rate: 542/1942 = 27.9%)
 [[PDF]](https://dl.acm.org/doi/10.1145/3474085.3475685){:target="_blank"}[[Code]](https://github.com/hwsel/FakeGradient){:target="_blank"}
