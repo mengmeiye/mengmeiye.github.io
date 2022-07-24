@@ -42,7 +42,7 @@ a, table.table a {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
-    font-size: 1.2rem;
+    font-size: 0.8rem;
     p {
       display: inline-block;
       margin: 0;
@@ -191,7 +191,7 @@ footer.fixed-bottom {
   a {
     color: var(--global-footer-link-color);
     &:hover {
-      color: pink;
+      color: #efcc00;
       text-decoration: none;
     }
   }
@@ -403,7 +403,8 @@ footer.sticky-bottom {
 
 // Rouge Color Customization
 code {
-  color: var(--global-theme-color);
+  font-size: 1rem;
+  color: var(--global-highlight-color);
 }
 // Transitioning Themes
 html.transition,

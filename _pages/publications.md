@@ -16,40 +16,57 @@ nav: true
 
 </div> -->
 
-Xianglong Feng, <b><u>Mengmei Ye</u></b>, Ke Xia, Sheng Wei, "Runtime Fault Injection Detection for FPGA-based DNN Execution Using Siamese Path Verification." To appear in Design, Automation and Test in Europe Conference (DATE) 2021.  
+<!-- [[Google Scholar]](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"} -->
 
-Akshay Gangal, <b><u>Mengmei Ye</u></b>, Sheng Wei, "HybridTEE: Secure Mobile DNN Execution Using Hybrid Trusted Execution Environment." To appear in IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST) 2020.
-[[Code]](https://github.com/hwsel/HybridTEE)
+<b><u>Mengmei Ye</u></b>, Angelo Ruocco, "No More Turtles: The SecondaryVM Framework - An Alternative to Nested Virtualization." KVM Forum, upcoming September, 2022.
+[[Details]](https://sched.co/15jKi){:target="_blank"}
+
+<b><u>Mengmei Ye</u></b>, Zhongze Tang, Huy Phan, Yi Xie, Bo Yuan, Sheng Wei, "Visual Privacy Pro-tection in Mobile Image Recognition Using Protective Perturbation." ACM Multimedia Systems Conference (MMSys), June 2022.
+[[PDF]](https://github.com/hwsel/ProtectivePerturbation/blob/main/paper/Paper-Protective_Perturbation-MMSys22.pdf){:target="_blank"}[[Code]](https://github.com/hwsel/ProtectivePerturbation){:target="_blank"}
+
+Jaime H. Moreno, Hubertus Franke, Paul Crumley, <b><u>Mengmei Ye</u></b>, "Calling for the Return of Non-Virtualized Microprocessor Systems." ACM SIGARCH, May 2022. 
+[[Blog Link]](https://www.sigarch.org/calling-for-the-return-of-non-virtualized-microprocessor-systems/){:target="_blank"}
+
+Xianglong Feng, Yi Xie, <b><u>Mengmei Ye</u></b>, Zhongze Tang, Bo Yuan, Sheng Wei, "Fake Gradient: A Security and Privacy Protection Framework for DNN-based Image Classification." ACM Multimedia Conference (MM), October 2021.
+(Acceptance rate: 542/1942 = 27.9%)
+[[PDF]](https://dl.acm.org/doi/10.1145/3474085.3475685){:target="_blank"}[[Code]](https://github.com/hwsel/FakeGradient){:target="_blank"}
+
+Xianglong Feng, <b><u>Mengmei Ye</u></b>, Ke Xia, Sheng Wei, "Runtime Fault Injection Detection for FPGA-based DNN Execution Using Siamese Path Verification." Design, Automation and Test in Europe Conference (DATE), February 2021.
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/9473941){:target="_blank"}
+
+Akshay Gangal, <b><u>Mengmei Ye</u></b>, Sheng Wei, "HybridTEE: Secure Mobile DNN Execution Using Hybrid Trusted Execution Environment." IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST), December 2020.
+(Acceptance rate: 13/48 = 27.1%)
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/9358260){:target="_blank"} [[Code]](https://github.com/hwsel/HybridTEE){:target="_blank"}
 
 <b><u>Mengmei Ye</u></b>, Xianglong Feng, Sheng Wei, "Runtime Hardware Security Verification Using Approximate Computing: A Case Study on Video Motion Detection." IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST), December 2019. 
-[[PDF]](https://ieeexplore.ieee.org/abstract/document/9006675)
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/9006675){:target="_blank"}
 
 <b><u>Mengmei Ye</u></b>, Xianglong Feng, Sheng Wei, "HISA: Hardware Isolation-based Secure Architecture for CPU-FPGA Embedded Systems." International Conference on Computer Aided Design (ICCAD), November 2018.
 (Acceptance rate: 98/396 = 24.7%) 
-[[PDF]](https://ieeexplore.ieee.org/abstract/document/8587726) [[Code]](https://github.com/hwsel/hisa)
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/8587726){:target="_blank"} [[Code]](https://github.com/hwsel/hisa){:target="_blank"}
 
 <b><u>Mengmei Ye</u></b>, Myra B. Cohen, Witawas Srisa-An, Sheng Wei, "EvoIsolator: Evolving Program Slices for Hardware Isolation Based Security." Hot off the Press track in Symposium on Search-Based Software Engineering (SSBSE), September 2018. 
-[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-99241-9_24)
+[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-99241-9_24){:target="_blank"}
 
 <b><u>Mengmei Ye</u></b>, Jonathan Sherman, Witawas Srisa-an, Sheng Wei, "TZSlicer: Security-Aware Dynamic Program Slicing for Hardware Isolation." IEEE International Symposium on Hardware Oriented Security and Trust (HOST), May 2018. 
 (Acceptance rate 17/84 = 20.2%. `Best Paper Nomination`)
-[[PDF]](https://ieeexplore.ieee.org/abstract/document/8383886) [[Code]](https://github.com/hwsel/tzslicer)
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/8383886){:target="_blank"} [[Code]](https://github.com/hwsel/tzslicer){:target="_blank"}
 
 <b><u>Mengmei Ye</u></b>, Mehrdad Zaker Shahrak, Sheng Wei, "PUFSec: Protecting Physical Unclonable Functions Using Hardware Isolation-based System Security Techniques." IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST), October 2017. 
-[[PDF]](https://ieeexplore.ieee.org/abstract/document/8353987)
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/8353987){:target="_blank"}
 
 Xianglong Feng, <b><u>Mengmei Ye</u></b>, Viswanathan Swaminathan, Sheng Wei, "Towards the Security of Motion Detection-based Video Surveillance on IoT Devices." ACM Multimedia Conference - Thematic Workshop, October 2017. 
-[[PDF]](https://dl.acm.org/doi/abs/10.1145/3126686.3126713)
+[[PDF]](https://dl.acm.org/doi/abs/10.1145/3126686.3126713){:target="_blank"}
 
 <b><u>Mengmei Ye</u></b>, Nan Jiang, Hao Yang, Qiben Yan, "Security Analysis of Internet-of-Things: A Case Study of August Smart Lock." IEEE INFOCOM - Workshop on the Security, Privacy, and Digital Forensics of Mobile Systems and Networks (MobiSec), May 2017.
-[[PDF]](https://ieeexplore.ieee.org/abstract/document/8116427)
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/8116427){:target="_blank"}
 
 <b><u>Mengmei Ye</u></b>, Nianhang Hu, Sheng Wei, "Lightweight Secure Sensing Using Hardware Isolation." IEEE SENSORS, October 2016.
-[[PDF]](https://ieeexplore.ieee.org/abstract/document/7808904)
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/7808904){:target="_blank"}
 
 Nianhang Hu, <b><u>Mengmei Ye</u></b>, Sheng Wei, "Surviving Information Leakage Hardware Trojan Attacks Using Hardware Isolation." IEEE International Conference on Computer Design (ICCD), October 2016.
 (Acceptance rate: 28.8%. `Best Paper Award` in "Test, Verification, and Security" Track. The paper was published in IEEE Transactions on Emerging Topics in Computing (TETC).)
-[[PDF]](https://ieeexplore.ieee.org/abstract/document/7805221)
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/7805221){:target="_blank"}
 
 Mehrdad Zaker Shahrak, <b><u>Mengmei Ye</u></b>, Viswanathan Swaminathan, Sheng Wei, "Two-Way Real Time Multimedia Stream Authentication Using Physical Unclonable Functions." IEEE Workshop on Multimedia Signal Processing (MMSP), September 2016.
-[[PDF]](https://ieeexplore.ieee.org/abstract/document/7813398)
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/7813398){:target="_blank"}

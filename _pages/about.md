@@ -2,35 +2,37 @@
 layout: about
 title: Home
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+# description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: Mengmei_Ye.jpeg
-  address: >
-    <p>CoRE 533</p>
-    <p>96 Frelinghuysen Rd</p>
-    <p>Piscataway, NJ 08854</p>
-    <p>Email: mengmei.ye [at] rutgers.edu</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. Candidate'21 in the Department of ECE at Rutgers University. I am very fortunate to be advised by Dr. Sheng Wei and work with our collaborators and colleagues. My research has been focused on: 
-- `Protecting program/data confidentiality and integrity` by leveraging hardware isolation techniques (e.g., ARM TrustZone and Intel SGX) on CPU-FPGA heterogeneous systems.
-- `Partitioning programs` to minimize the trusted computing base in the hardware isolation-based platforms. 
+[LinkedIn](https://www.linkedin.com/in/mengmei-ye/){:target="_blank"} <b>|</b> [Google Scholar](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"} <b>|</b> [Twitter](https://twitter.com/mengmeiye){:target="_blank"}
 
-In particular, I am interested in offloading/partitioning compute-intensive applications (e.g., DNN execution) in mobile/IoT devices with security/privacy properties onto accelerators (e.g., FPGA) in edge/cloud platforms. I am also interested in applying the security techniques to support confidential computations in healthcare systems.
+<!-- <h6>Research Staff Member-Cloud Security</h6>
 
-Here is my professional summary: 
-- 12 peer-reviewed publications
-- 2.5-year teaching experience
-- Selected awards
-  - `Best Paper Award` in “Test, Verification, and Security” Track, IEEE International Conference on Computer Design (ICCD), October 2016.
-  - `Best Paper Nomination`, IEEE International Symposium on Hardware Oriented Security and Trust (HOST), May 2018.
-  - `Samsung Breakthroughs That Matter Award`, MIT Hacking Medicine Grand Hack, May 2019. (media coverage: Bloomberg, Samsung Business Insights, etc.)
-- 13 presentations
-- Shadow program committee member in the 42nd IEEE Symposium on Security and Privacy (S&P'21)
-- Reviewer for 5 conferences/journals
+<h6>IBM T.J. Watson Research Center</h6>
+
+<h6>Education: PhD, Department of Electrical and Computer Engineering, Rutgers University - New Brunswick </h6> -->
+
+I am currently a Research Staff Member-Cloud Security at IBM T.J. Watson Research Center. I received my Ph.D. degree from Rutgers University - New Brunswick in Electrical and Computer Engineering (advisor: [Prof. Sheng Wei](http://eceweb1.rutgers.edu/~sw891/){:target="_blank"}). 
+
+
+
+<h4><b>Recent News</b></h4>
+
+I'm currently co-organizing a workshop on Zero Trust Hardware Architectures (ZTHA'22) co-located with [ICCAD](https://iccad.com/){:target="_blank"}. We welcome three types of submissions: 
+- Technical papers with evaluation results
+- Position papers on directions for research and development
+- Review papers
+
+The submission deadline is `August 12, 2022 (AOE)`.
+
+More details can be found in: 
+[https://zerotrustworkshopiccad.github.io/](https://zerotrustworkshopiccad.github.io/){:target="_blank"}

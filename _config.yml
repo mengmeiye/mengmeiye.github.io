@@ -8,9 +8,9 @@ middle_name:
 last_name: Ye
 # email: mengmei.ye [at] rutgers.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Ph.D. Candidate'21, ECE@Rutgers.
+  Research Staff Member, IBM Research.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a> theme.
   
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -30,8 +30,8 @@ footer_fixed: true
 # Display links to the page with a preview object on social media.
 # To achieve this, change serve_og_meta to true and then provide the URL of the
 # preview image as the value of og_image.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+# serve_og_meta: false # Include Open Graph meta tags in the HTML head
+# og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -39,8 +39,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 # github_username: # your GitHub user name
 # twitter_username: # your Twitter handle
-linkedin_username: mengmei-ye # your LinkedIn user name
-scholar_userid: ZfFRiz0AAAAJ&hl # your Google Scholar ID
+# linkedin_username: mengmei-ye # your LinkedIn user name
+# scholar_userid: ZfFRiz0AAAAJ&hl # your Google Scholar ID
 # orcid_id: # your ORCID ID
 # medium_username: # your Medium username
 # quora_username: # your Quora username
@@ -145,12 +145,12 @@ plugins:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:  false
+enable_google_analytics:  true
 enable_mansory:           true
 enable_math:              true
 enable_tooltips:          false
 enable_darkmode:          false
-show_social_icons:        true
+show_social_icons:        false
 
 # -----------------------------------------------------------------------------
 # Library versions
