@@ -27,10 +27,11 @@ I am currently a Research Staff Member-Cloud Security at IBM T.J. Watson Researc
 
 <h4><b>Recent News</b></h4>
 
-I'm currently co-organizing a workshop on Zero Trust Hardware Architectures (ZTHA'22) co-located with [ICCAD](https://iccad.com/){:target="_blank"}. We welcome three types of submissions: 
+I'm currently co-organizing a workshop on Zero Trust Hardware Architectures (ZTHA'22) co-located with [ICCAD](https://iccad.com/){:target="_blank"}. We welcome four types of submissions: 
 - Technical papers with evaluation results
 - Position papers on directions for research and development
 - Review papers
+- Talk abstract (1 page only) that describes the content of an oral presentation
 
 The submission deadline is  <s>August 12</s> `August 29, 2022 (AOE)`.
 
