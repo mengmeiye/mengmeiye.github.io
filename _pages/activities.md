@@ -26,7 +26,8 @@ Organize your courses by years, topics, or universities, however you like! -->
 - IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
     - Ph.D. Competition Co-Chair, 2023. 
     - Session Chair, 2022.
-- Selection Committee, 7th Workshop on the Future of Computing Architectures (FOCA), 2022.  
+- Selection Committee, 7th Workshop on the Future of Computing Architectures (FOCA), 2022. 
+- Program Committee, New Frontiers in Adversarial Machine Learning (AdvML Frontiers @ ICML), 2022. 
 - Shadow Program Committee, 42nd IEEE Symposium on Security and Privacy (S&P), 2021. 
 - Graduate Recruitment and Outreach Committee, Department of Computer Science and Engineering in the University of Nebraska – Lincoln, Fall 2017 – Spring 2018. 
 
