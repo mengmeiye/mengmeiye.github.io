@@ -33,7 +33,9 @@ I'm currently co-organizing a workshop on Zero Trust Hardware Architectures (ZTH
 - Review papers
 - Talk abstract (1 page only) that describes the content of an oral presentation
 
-The submission deadline is  <s>August 12</s> `August 29, 2022 (AOE)`.
+The submission deadline is  <s>August 29</s> `September 26, 2022 (AOE)`.
 
-More details can be found in: 
+This is a firm deadline, and there will be no more extensions. 
+
+More details are in: 
 [https://zerotrustworkshopiccad.github.io/](https://zerotrustworkshopiccad.github.io/){:target="_blank"}
