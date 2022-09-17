@@ -18,8 +18,8 @@ nav: true
 
 <!-- [[Google Scholar]](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"} -->
 
-<b><u>Mengmei Ye</u></b>, Angelo Ruocco, "No More Turtles: The SecondaryVM Framework - An Alternative to Nested Virtualization." KVM Forum, upcoming September 2022.
-[[Details]](https://sched.co/15jKi){:target="_blank"}
+<b><u>Mengmei Ye</u></b>, Angelo Ruocco, "No More Turtles: The SecondaryVM Framework - An Alternative to Nested Virtualization." KVM Forum, September 2022.
+[[Details]](https://sched.co/15jKi){:target="_blank"} [[IBM Research Blog]](https://research.ibm.com/blog/nested-virtualization-free-turtles){:target="_blank"}
 
 <b><u>Mengmei Ye</u></b>, Zhongze Tang, Huy Phan, Yi Xie, Bo Yuan, Sheng Wei, "Visual Privacy Pro-tection in Mobile Image Recognition Using Protective Perturbation." ACM Multimedia Systems Conference (MMSys), June 2022.
 [[PDF]](https://github.com/hwsel/ProtectivePerturbation/blob/main/paper/Paper-Protective_Perturbation-MMSys22.pdf){:target="_blank"}[[Code]](https://github.com/hwsel/ProtectivePerturbation){:target="_blank"}
