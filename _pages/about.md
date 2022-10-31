@@ -27,15 +27,10 @@ I am currently a Research Staff Member at IBM T.J. Watson Research Center. I rec
 
 <h4><b>Recent News</b></h4>
 
-I'm currently co-organizing a workshop on Zero Trust Hardware Architectures (ZTHA'22) co-located with [ICCAD](https://iccad.com/){:target="_blank"}. We welcome four types of submissions: 
-- Technical papers with evaluation results
-- Position papers on directions for research and development
-- Review papers
-- Talk abstract (1 page only) that describes the content of an oral presentation
+I'm currently co-organizing a workshop on Zero Trust Hardware Architectures (ZTHA'22) co-located with [ICCAD](https://iccad.com/){:target="_blank"}. 
 
-The submission deadline is  <s>August 29</s> `September 26, 2022 (AOE)`.
+The program schedule has been posted in: 
+[https://zerotrustworkshopiccad.github.io/program.html](https://zerotrustworkshopiccad.github.io/program.html){:target="_blank"}
 
-This is a firm deadline, and there will be no more extensions. 
-
-More details are in: 
-[https://zerotrustworkshopiccad.github.io/](https://zerotrustworkshopiccad.github.io/){:target="_blank"}
+Please attend our workshop by registering through
+[https://iccad.com/registration/](https://iccad.com/registration/){:target="_blank"}
