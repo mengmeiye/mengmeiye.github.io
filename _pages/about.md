@@ -25,7 +25,7 @@ I am currently a Research Staff Member at IBM T.J. Watson Research Center. I rec
 
 
 
-<h4><b>Recent News</b></h4>
+<!-- <h4><b>Recent News</b></h4>
 
 I'm currently co-organizing a workshop on Zero Trust Hardware Architectures (ZTHA'22) co-located with [ICCAD](https://iccad.com/){:target="_blank"}. 
 
@@ -33,4 +33,4 @@ The program schedule has been posted in:
 [https://zerotrustworkshopiccad.github.io/program.html](https://zerotrustworkshopiccad.github.io/program.html){:target="_blank"}
 
 Please attend our workshop by registering through
-[https://iccad.com/registration/](https://iccad.com/registration/){:target="_blank"}
+[https://iccad.com/registration/](https://iccad.com/registration/){:target="_blank"} -->

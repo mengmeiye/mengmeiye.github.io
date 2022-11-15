@@ -18,7 +18,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 
 <h4><b>Panel</b></h4>
-- Chair/Moderator, "Building a Career at IBM: Panel of Under 6 Years at IBM", IBM, March & June 2022. 
+- Chair/Moderator, "Building a Career at IBM: Panel of Under 6 Years at IBM", IBM, March, June, and October 2022. 
 - Panelist, "How do we evaluate the impact of hardware security research?" Top Picks in Hardware and Embedded Security Workshop co-located with International Conference on Computer Aided Design (ICCAD), November 2019. 
 - Chair/Moderator, "Student Panel in the Graduate Information Days", Department of Computer Science and Engineering in the University of Nebraska – Lincoln, November 2017 & March 2018. 
 
