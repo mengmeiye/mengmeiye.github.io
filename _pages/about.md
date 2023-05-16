@@ -21,7 +21,9 @@ social: false  # includes social icons at the bottom of the page
 
 <h6>Education: PhD, Department of Electrical and Computer Engineering, Rutgers University - New Brunswick </h6> -->
 
-I am currently a Research Staff Member at IBM T.J. Watson Research Center. I received my Ph.D. degree from Rutgers University - New Brunswick in Electrical and Computer Engineering (advisor: [Prof. Sheng Wei](http://eceweb1.rutgers.edu/~sw891/){:target="_blank"}). 
+I am a Staff Research Scientist working on Confidential Computing in the Cloud Infrastructure department at IBM Research. I received my Ph.D. degree from Rutgers University - New Brunswick in Electrical and Computer Engineering in 2021 (advisor: [Prof. Sheng Wei](http://eceweb1.rutgers.edu/~sw891/){:target="_blank"}). 
+
+Email: m y e [ a t ] i b m . c o m
 
 
 
