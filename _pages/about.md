@@ -21,7 +21,9 @@ social: false  # includes social icons at the bottom of the page
 
 <h6>Education: PhD, Department of Electrical and Computer Engineering, Rutgers University - New Brunswick </h6> -->
 
-I am a Staff Research Scientist working on Confidential Computing in the Cloud Infrastructure department at IBM Research. I received my Ph.D. degree from Rutgers University - New Brunswick in Electrical and Computer Engineering in 2021 (advisor: [Prof. Sheng Wei](http://eceweb1.rutgers.edu/~sw891/){:target="_blank"}). 
+I am a Staff Research Scientist working on <b>Confidential Computing</b> and <b>Cloud Infrastructure</b> at IBM Research. I received my Ph.D. degree from Rutgers University - New Brunswick in Electrical and Computer Engineering in 2021 (advisor: Prof. Sheng Wei). 
+
+I have published research works in top-tier conferences such as DAC, ICCAD, HOST, IEEE CLOUD, and KVM Forum. My works have been recognized with a `Best Paper Award` at IEEE ICCD 2016 and a `Best Paper Nomination` at IEEE HOST 2018. 
 
 Email: m y e [ a t ] i b m . c o m
 
