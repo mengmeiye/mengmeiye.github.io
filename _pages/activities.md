@@ -50,3 +50,8 @@ System Security (NDSS) Symposium, 2024.
 - IEEE Design & Test (D&T), 2020. 
 - IEEE Transactions on Dependable and Secure Computing (TDSC), 2019. 
 - IEEE Transactions on Industrial Electronics (TIE), 2018 – 2019. 
+
+<h4><b>Workshop/Event Facilitator</b></h4>
+- Facilitator and Presenter, Fast Start Workshop for Students, Cornell Animal Health Hackathon, 2022. 
+- Facilitator, Hudson Valley Technical Festival, 2021. 
+- Facilitator and Panelist, Opportunities in Computer Science Breakout Session, Annual Nebraska Conference for Undergraduate Women in Mathematics (NCUWM), 2018. 
