@@ -18,9 +18,9 @@ nav: true
 
 <!-- [[Google Scholar]](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"} -->
 
-<b><u>Mengmei Ye</u></b>, Angelo Ruocco, Daniele Buono, James Bottomley, and Hubertus Franke. "Free the Turtles: Removing Nested Virtualization for Performance and Confidentiality in the Cloud." IEEE International Conference on Cloud Computing (IEEE CLOUD). upcoming July 2023.
+<b><u>Mengmei Ye</u></b>, Angelo Ruocco, Daniele Buono, James Bottomley, and Hubertus Franke. "Free the Turtles: Removing Nested Virtualization for Performance and Confidentiality in the Cloud." IEEE International Conference on Cloud Computing (IEEE CLOUD), July 2023.
 
-Wei Ren, William Kozlowski, Sandhya Koteshwara, <b><u>Mengmei Ye</u></b>, Hubertus Franke, Deming Chen. “AccShield: A New Trusted Execution Environment with Machine-Learning Accelerators.” Design Automation Conference (DAC), upcoming July 2023.
+Wei Ren, William Kozlowski, Sandhya Koteshwara, <b><u>Mengmei Ye</u></b>, Hubertus Franke, Deming Chen. “AccShield: A New Trusted Execution Environment with Machine-Learning Accelerators.” Design Automation Conference (DAC), July 2023.
 (Acceptance rate: 23%)
 
 Vikram Narayanan, Claudio Carvalho, Angelo Ruocco, Gheorghe Almási, James Bottomley, <b><u>Mengmei Ye</u></b>, Tobin Feldman-Fitzthum, Daniele Buono, Hubertus Franke, Anton Burtsev. “Remote Attestation of SEV-SNP Confidential VMs Using E-vTPMs.” arXiv:2303.16463, 2023.

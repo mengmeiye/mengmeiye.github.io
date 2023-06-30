@@ -39,6 +39,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 <h4><b>Reviewer</b></h4>
 - ACM/IEEE Supercomputing Conference (SC), 2023. 
+- ACM Transactions on Embedded Computing Systems (TECS), 2023. 
 - IEEE Access, 2020 & 2023. 
 - IEEE Design & Test (D&T), 2020. 
 - IEEE Transactions on Dependable and Secure Computing (TDSC), 2019. 
