@@ -21,8 +21,12 @@ Organize your courses by years, topics, or universities, however you like! -->
 - Organizer and Chair of TPC, Workshop on Zero Trust Hardware Architectures (ZTHA) co-located with International Conference on Computer Aided Design (ICCAD), 2022.
 - Selection Committee, 7th Workshop on the Future of Computing Architectures (FOCA), 2022. 
 - Program Committee, New Frontiers in Adversarial Machine Learning (AdvML Frontiers @ ICML), 2022. 
+- Industry Liaison, Workshop for Women in Hardware and Systems Security (WISE), 2022.
 - Shadow Program Committee, 42nd IEEE Symposium on Security and Privacy (S&P), 2021. 
+- Facilitator and Presenter, Fast Start Workshop for Students, Cornell Animal Health Hackathon, 2022. 
+- Facilitator, Hudson Valley Technical Festival, 2021. 
 - Graduate Recruitment and Outreach Committee, Department of Computer Science and Engineering in the University of Nebraska – Lincoln, Fall 2017 – Spring 2018. 
+- Facilitator and Panelist, Opportunities in Computer Science Breakout Session, Annual Nebraska Conference for Undergraduate Women in Mathematics (NCUWM), 2018. 
 
 <h4><b>Panel</b></h4>
 - Chair/Moderator, "Building a Career at IBM: Panel of Under 6 Years at IBM", IBM, March, June & October 2022. 
@@ -44,8 +48,3 @@ Organize your courses by years, topics, or universities, however you like! -->
 - IEEE Design & Test (D&T), 2020. 
 - IEEE Transactions on Dependable and Secure Computing (TDSC), 2019. 
 - IEEE Transactions on Industrial Electronics (TIE), 2018 – 2019. 
-
-<h4><b>Workshop/Event Facilitator</b></h4>
-- Facilitator and Presenter, Fast Start Workshop for Students, Cornell Animal Health Hackathon, 2022. 
-- Facilitator, Hudson Valley Technical Festival, 2021. 
-- Facilitator and Panelist, Opportunities in Computer Science Breakout Session, Annual Nebraska Conference for Undergraduate Women in Mathematics (NCUWM), 2018. 
