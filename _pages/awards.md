@@ -10,6 +10,8 @@ nav: true
 
 Organize your courses by years, topics, or universities, however you like! -->
 
+- `Distinguished Paper with Artifacts`, Annual Computer Security Applications Conference (ACSAC), December 2023.
+
 - <b>Samsung Breakthroughs That Matter Award</b>, MIT Hacking Medicine Grand Hack, May 2019.      
   <i><u>Selected Media Coverage</u></i> : 
   - [Bloomberg](https://www.bloomberg.com/press-releases/2019-05-07/samsung-department-of-veterans-affairs-and-mit-present-breakthroughs-that-matter-awards-for-innovative-veterans-health){:target="_blank"}

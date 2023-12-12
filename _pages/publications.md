@@ -18,23 +18,30 @@ nav: true
 
 <!-- [[Google Scholar]](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"} -->
 
-[P20] Vikram Narayanan, Claudio Carvalho, Angelo Ruocco, Gheorghe Almási, James Bottomley, <b><u>Mengmei Ye</u></b>, Tobin Feldman-Fitzthum, Daniele Buono, Hubertus Franke, Anton Burtsev. “Remote Attestation of Confidential VMs Using Ephemeral vTPMs.” To appear, Applied Computer Security Applications Conference (ACSAC), 2023.
-(Acceptance rate: 24%)
+[P21] Vikram Narayanan, Claudio Carvalho, Angelo Ruocco, Gheorghe Almási, James Bottomley, <b><u>Mengmei Ye</u></b>, Tobin Feldman-Fitzthum, Daniele Buono, Hubertus Franke, Anton Burtsev. "Remote Attestation of Confidential VMs Using Ephemeral vTPMs." Annual Computer Security Applications Conference (ACSAC), December 2023.
+(Acceptance rate: 24%. `Distinguished Paper with Artifacts`)
+[[PDF]](https://dl.acm.org/doi/10.1145/3627106.3627112){:target="_blank"}
+
+[P20] (Exhibitor Forum) <b><u>Mengmei Ye</u></b>, Derren Dunn. "The Cost of Flexibility and Security in Cloud-Based HPC – A Case Study Running EDA Workloads with Confidential Computing Technology." International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), November 2023. 
+[[Details]](https://sc23.supercomputing.org/proceedings/exhibitor_forum/exhibitor_forum_pages/exforum122.html){:target="_blank"}
 
 [P19] <b><u>Mengmei Ye</u></b>, Angelo Ruocco, Daniele Buono, James Bottomley, and Hubertus Franke. "Free the Turtles: Removing Nested Virtualization for Performance and Confidentiality in the Cloud." IEEE International Conference on Cloud Computing (IEEE CLOUD), July 2023.
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/10255007){:target="_blank"}[[Code]](https://github.com/Secondary-VM){:target="_blank"}
 
 [P18] Wei Ren, William Kozlowski, Sandhya Koteshwara, <b><u>Mengmei Ye</u></b>, Hubertus Franke, Deming Chen. “AccShield: A New Trusted Execution Environment with Machine-Learning Accelerators.” Design Automation Conference (DAC), July 2023.
 (Acceptance rate: 23%)
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/10247768){:target="_blank"}
 
-[P17] <b><u>Mengmei Ye</u></b>, Angelo Ruocco. “No More Turtles: The SecondaryVM Framework - An Alternative to Nested Virtualization.” KVM Forum, September 2022. 
+[P17] (Presentation) <b><u>Mengmei Ye</u></b>, Angelo Ruocco. “No More Turtles: The SecondaryVM Framework - An Alternative to Nested Virtualization.” KVM Forum, September 2022. 
 [[Details]](https://sched.co/15jKi){:target="_blank"}
 
-[P16] <b><u>Mengmei Ye</u></b>, Angelo Ruocco, Daniele Buono, James Bottomley, Hubertus Franke. “An Alternative to Nested Virtualization - Why It's Time To "Free the Turtles.” IBM Research Blog, September 2022. [[Details]](https://research.ibm.com/blog/nested-virtualization-free-turtles){:target="_blank"}
+[P16] (Blog Post) <b><u>Mengmei Ye</u></b>, Angelo Ruocco, Daniele Buono, James Bottomley, Hubertus Franke. “An Alternative to Nested Virtualization - Why It's Time To "Free the Turtles.” IBM Research Blog, September 2022. 
+[[Details]](https://research.ibm.com/blog/nested-virtualization-free-turtles){:target="_blank"}
 
-[P15] <b><u>Mengmei Ye</u></b>, Zhongze Tang, Huy Phan, Yi Xie, Bo Yuan, Sheng Wei, "Visual Privacy Pro-tection in Mobile Image Recognition Using Protective Perturbation." ACM Multimedia Systems Conference (MMSys), June 2022.
+[P15] <b><u>Mengmei Ye</u></b>, Zhongze Tang, Huy Phan, Yi Xie, Bo Yuan, Sheng Wei, "Visual Privacy Protection in Mobile Image Recognition Using Protective Perturbation." ACM Multimedia Systems Conference (MMSys), June 2022.
 [[PDF]](https://github.com/hwsel/ProtectivePerturbation/blob/main/paper/Paper-Protective_Perturbation-MMSys22.pdf){:target="_blank"}[[Code]](https://github.com/hwsel/ProtectivePerturbation){:target="_blank"}
 
-[P14] Jaime H. Moreno, Hubertus Franke, Paul Crumley, <b><u>Mengmei Ye</u></b>, "Calling for the Return of Non-Virtualized Microprocessor Systems." ACM SIGARCH, May 2022. 
+[P14] (Blog Post) Jaime H. Moreno, Hubertus Franke, Paul Crumley, <b><u>Mengmei Ye</u></b>, "Calling for the Return of Non-Virtualized Microprocessor Systems." ACM SIGARCH, May 2022. 
 [[Details]](https://www.sigarch.org/calling-for-the-return-of-non-virtualized-microprocessor-systems/){:target="_blank"}
 
 [P13] Xianglong Feng, Yi Xie, <b><u>Mengmei Ye</u></b>, Zhongze Tang, Bo Yuan, Sheng Wei, "Fake Gradient: A Security and Privacy Protection Framework for DNN-based Image Classification." ACM Multimedia Conference (MM), October 2021.

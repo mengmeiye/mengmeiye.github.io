@@ -13,16 +13,18 @@ Organize your courses by years, topics, or universities, however you like! -->
 <h4><b>Conference/Workshop/Event Committee</b></h4>
 - IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
     - Ph.D. Competition Co-Chair, 2023 & 2024. 
-    - TPC, 2023. 
+    - TPC, 2023 & 2024. 
     - Session Chair, 2022 & 2023.
 - Design Automation Conference (DAC)
-    - TPC, 2023. 
+    - TPC, 2023 & 2024. 
     - External Reviewer, 2018 – 2020.
-- Organizer and Chair of TPC, Workshop on Zero Trust Hardware Architectures (ZTHA) co-located with International Conference on Computer Aided Design (ICCAD), 2022.
-- Selection Committee, 7th Workshop on the Future of Computing Architectures (FOCA), 2022. 
-- Program Committee, New Frontiers in Adversarial Machine Learning (AdvML Frontiers @ ICML), 2022. 
+- Organizer and Chair of TPC, Workshop on Zero Trust Hardware Architectures (ZTHA) co-located with International Conference on Computer Aided Design (ICCAD), 2022 & 2023.
+- TPC, Workshop on Artificial Intelligence System with Confidential Computing (AISCC) co-located with Network and Distributed
+System Security (NDSS) Symposium, 2024.
+- Selection Committee, Workshop on the Future of Computing Architectures (FOCA), 2022.  
+- TPC, New Frontiers in Adversarial Machine Learning (AdvML Frontiers @ ICML), 2022. 
 - Industry Liaison, Workshop for Women in Hardware and Systems Security (WISE), 2022.
-- Shadow Program Committee, 42nd IEEE Symposium on Security and Privacy (S&P), 2021. 
+- Shadow TPC, 42nd IEEE Symposium on Security and Privacy (S&P), 2021. 
 - Facilitator and Presenter, Fast Start Workshop for Students, Cornell Animal Health Hackathon, 2022. 
 - Facilitator, Hudson Valley Technical Festival, 2021. 
 - Graduate Recruitment and Outreach Committee, Department of Computer Science and Engineering in the University of Nebraska – Lincoln, Fall 2017 – Spring 2018. 
@@ -42,7 +44,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 - Mentor, Summer Research Program on Internet Security for Undergraduate Students, Department of Computer Science and Engineering in the University of Nebraska – Lincoln, Summer 2017. 
 
 <h4><b>Reviewer</b></h4>
-- ACM/IEEE Supercomputing Conference (SC), 2023. 
+- International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2023. 
 - ACM Transactions on Embedded Computing Systems (TECS), 2023. 
 - IEEE Access, 2020 & 2023. 
 - IEEE Design & Test (D&T), 2020. 

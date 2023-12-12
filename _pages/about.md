@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-[LinkedIn](https://www.linkedin.com/in/mengmei-ye/){:target="_blank"} <b>|</b> [Google Scholar](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"} <b>|</b> [Twitter](https://twitter.com/mengmeiye){:target="_blank"}
+[LinkedIn](https://www.linkedin.com/in/mengmei-ye/){:target="_blank"} <b>|</b> [Google Scholar](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"} <b>
 
 <!-- <h6>Research Staff Member-Cloud Security</h6>
 
@@ -23,7 +23,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am a Staff Research Scientist working on <b>Confidential Computing</b> and <b>Cloud Infrastructure</b> at IBM Research. I received my Ph.D. degree from Rutgers University - New Brunswick in Electrical and Computer Engineering in 2021 (advisor: Prof. Sheng Wei). 
 
-I have published research works in top-tier conferences such as DAC, ICCAD, HOST, IEEE CLOUD, and KVM Forum. My works have been recognized with a `Best Paper Award` at IEEE ICCD 2016 and a `Best Paper Nomination` at IEEE HOST 2018. 
+I have published research works in top-tier conferences such as ACSAC, DAC, ICCAD, HOST, IEEE CLOUD, and KVM Forum. My papers have been recognized with a `Distinguished Paper with Artifacts Award` at ACSAC 2023, a `Best Paper Nomination` at IEEE HOST 2018, and a `Best Paper Award` at IEEE ICCD 2016. 
 
 Email: m y e [ a t ] i b m . c o m
 
