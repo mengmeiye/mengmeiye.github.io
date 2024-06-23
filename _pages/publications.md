@@ -18,6 +18,15 @@ nav: true
 
 <!-- [[Google Scholar]](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"} -->
 
+[P24] Apoorve Mohan, <b><u>Mengmei Ye</u></b>, Hubertus Franke, Mudhakar Srivatsa, Zhuoran Liu and Nelson Gonzale. “Securing AI Inference in the Cloud: Is CPU-GPU Confidential Computing Ready?” IEEE International Conference on Cloud Computing (CLOUD), July 2024.
+(Acceptance rate: 19.4%)
+
+[P23] Wei Ren, Sandhya Koteshwara, <b><u>Mengmei Ye</u></b>, Hubertus Franke and Deming Chen. “S2TAR-Cloud: Shared Secure Trusted Accelerators with Reconfiguration for Machine Learning in the Cloud.” IEEE International Conference on Cloud Computing (CLOUD), July 2024.
+(Acceptance rate: 19.4%)
+
+[P22] Angelo Ruocco, Chris Porter, Claudio Carvalho, Daniele Buono, Derren Dunn, Hubertus Franke, James Bottomley, Marcio Silva, <b><u>Mengmei Ye</u></b>, Niteesh Dubey, and Tobin Feldman-Fitzthum (author list ordered by alphabet). “Aligning Confidential Computing with Cloud-native ML Platforms.” Workshop on Artificial Intelligence System with Confidential Computing (AISCC), co-located with Network and Distributed System Security (NDSS) Symposium, February 2024. 
+[[PDF]](https://www.ndss-symposium.org/ndss-paper/auto-draft-537){:target="_blank"}
+
 [P21] Vikram Narayanan, Claudio Carvalho, Angelo Ruocco, Gheorghe Almási, James Bottomley, <b><u>Mengmei Ye</u></b>, Tobin Feldman-Fitzthum, Daniele Buono, Hubertus Franke, Anton Burtsev. "Remote Attestation of Confidential VMs Using Ephemeral vTPMs." Annual Computer Security Applications Conference (ACSAC), December 2023.
 (Acceptance rate: 24%. `Distinguished Paper with Artifacts`)
 [[PDF]](https://dl.acm.org/doi/10.1145/3627106.3627112){:target="_blank"}
