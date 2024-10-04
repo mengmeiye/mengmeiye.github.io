@@ -13,8 +13,8 @@ Organize your courses by years, topics, or universities, however you like! -->
 <h4><b>Conference/Workshop/Event Committee</b></h4>
 - Guest Editor, IEEE Transactions on Circuits and Systems I (TCAS-I) Special Issue on Emerging Hardware Security and Trust Technologies, 2024. 
 - IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
-    - Ph.D. Competition Co-Chair, 2023 & 2024. 
-    - TPC, 2023 & 2024. 
+    - Ph.D. Competition Co-Chair, 2023 - 2025. 
+    - TPC, 2023 - 2025. 
     - Session Chair, 2022 & 2023.
 - Design Automation Conference (DAC)
     - TPC, 2023 & 2024. 

@@ -18,11 +18,15 @@ nav: true
 
 <!-- [[Google Scholar]](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"} -->
 
+[P25]. <b><u>Mengmei Ye</u></b>, Sandhya Koteshwara, Derren Dunn, Hubertus Franke, Chris Porter, Tobin Feldman-Fitzthum, Angelo Ruocco, Daniele Buono, Claudio Carvalho. "Position Paper: From Confidential Computing to Zero Trust, Come Along for the (Bumpy?) Ride." The International Workshop on Hardware and Architectural Support for Security and Privacy (HASP) in conjunction with IEEE/ACM International Symposium on Microarchitecture (MICRO), November 2024.
+
 [P24] Apoorve Mohan, <b><u>Mengmei Ye</u></b>, Hubertus Franke, Mudhakar Srivatsa, Zhuoran Liu and Nelson Gonzale. “Securing AI Inference in the Cloud: Is CPU-GPU Confidential Computing Ready?” IEEE International Conference on Cloud Computing (CLOUD), July 2024.
 (Acceptance rate: 19.4%)
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/10643934){:target="_blank"}
 
 [P23] Wei Ren, Sandhya Koteshwara, <b><u>Mengmei Ye</u></b>, Hubertus Franke and Deming Chen. “S2TAR-Cloud: Shared Secure Trusted Accelerators with Reconfiguration for Machine Learning in the Cloud.” IEEE International Conference on Cloud Computing (CLOUD), July 2024.
 (Acceptance rate: 19.4%)
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/10643939){:target="_blank"}
 
 [P22] Angelo Ruocco, Chris Porter, Claudio Carvalho, Daniele Buono, Derren Dunn, Hubertus Franke, James Bottomley, Marcio Silva, <b><u>Mengmei Ye</u></b>, Niteesh Dubey, and Tobin Feldman-Fitzthum (author list ordered by alphabet). “Aligning Confidential Computing with Cloud-native ML Platforms.” Workshop on Artificial Intelligence System with Confidential Computing (AISCC), co-located with Network and Distributed System Security (NDSS) Symposium, February 2024. 
 [[PDF]](https://www.ndss-symposium.org/ndss-paper/auto-draft-537){:target="_blank"}
