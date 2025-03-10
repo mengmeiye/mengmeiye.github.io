@@ -19,6 +19,7 @@ nav: true
 <!-- [[Google Scholar]](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"} -->
 
 [P25]. <b><u>Mengmei Ye</u></b>, Sandhya Koteshwara, Derren Dunn, Hubertus Franke, Chris Porter, Tobin Feldman-Fitzthum, Angelo Ruocco, Daniele Buono, Claudio Carvalho. "Position Paper: From Confidential Computing to Zero Trust, Come Along for the (Bumpy?) Ride." The International Workshop on Hardware and Architectural Support for Security and Privacy (HASP) in conjunction with IEEE/ACM International Symposium on Microarchitecture (MICRO), November 2024.
+[[PDF]](https://dl.acm.org/doi/10.1145/3696843.3696848){:target="_blank"}
 
 [P24] Apoorve Mohan, <b><u>Mengmei Ye</u></b>, Hubertus Franke, Mudhakar Srivatsa, Zhuoran Liu and Nelson Gonzale. “Securing AI Inference in the Cloud: Is CPU-GPU Confidential Computing Ready?” IEEE International Conference on Cloud Computing (CLOUD), July 2024.
 (Acceptance rate: 19.4%)
