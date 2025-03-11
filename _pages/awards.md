@@ -14,10 +14,8 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 - <b>Samsung Breakthroughs That Matter Award</b>, MIT Hacking Medicine Grand Hack, May 2019.      
   <i><u>Selected Media Coverage</u></i> : 
-  - [Bloomberg](https://www.bloomberg.com/press-releases/2019-05-07/samsung-department-of-veterans-affairs-and-mit-present-breakthroughs-that-matter-awards-for-innovative-veterans-health){:target="_blank"}
   - [Samsung Business Insights](https://insights.samsung.com/2019/05/17/how-to-bring-secure-cancer-predicting-ai-tools-to-market-faster/){:target="_blank"}
   - [Samsung Newsroom](https://news.samsung.com/us/samsung-veterans-affairs-mit-hacking-medicine-grand-hack-breakthroughs-that-matter-awards-veterans-health-solutions/){:target="_blank"}
-  - [Rutgers ECE News](https://www.ece.rutgers.edu/news/ece-graduate-student-mengmei-ye-wins-samsung-breakthroughs-matter-award-mit-hacking-medicine){:target="_blank"}
 
 - `Best Paper Nomination`, IEEE International Symposium on Hardware Oriented Security and Trust (HOST), February 2018.
 
