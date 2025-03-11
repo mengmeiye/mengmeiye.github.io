@@ -11,7 +11,7 @@ nav: true
 Organize your courses by years, topics, or universities, however you like! -->
 
 <h4><b>Committee</b></h4>
-- Industry Advisory Board member, Rutgers ECE, 2024 - Present. 
+- Industry Advisory Board Member, Rutgers ECE, 2024 - Present. 
 - Guest Editor, IEEE Transactions on Circuits and Systems I (TCAS-I) Special Issue on Emerging Hardware Security and Trust Technologies, 2024.
 - IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
     - Ph.D. Competition Co-Chair, 2023 - 2025. 
@@ -24,6 +24,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 - Workshop for Women in Hardware and Systems Security (WISE)
     - General Co-Chair, 2024. 
     - Industry Liaison, 2022.
+- TPC, IEEE Cloud, 2025.
 - TPC, International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC co-located with International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2024. 
 - TPC, Workshop on Artificial Intelligence System with Confidential Computing (AISCC) co-located with Network and Distributed
 System Security (NDSS) Symposium, 2024.
