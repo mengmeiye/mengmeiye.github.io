@@ -11,7 +11,7 @@ nav: true
 Organize your courses by years, topics, or universities, however you like! -->
 
 <h4><b>Committee</b></h4>
-- Industry Advisory Board Member, Rutgers ECE, 2024 - Present. 
+- [Industry Advisory Board Member](https://www.ece.rutgers.edu/ece-industry-advisory-board), Rutgers ECE, 2024 - Present. 
 - Guest Editor, IEEE Transactions on Circuits and Systems I (TCAS-I) Special Issue on Emerging Hardware Security and Trust Technologies, 2024.
 - IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
     - Ph.D. Competition Co-Chair, 2023 - 2025. 
@@ -37,8 +37,8 @@ System Security (NDSS) Symposium, 2024.
 - Facilitator and Panelist, Opportunities in Computer Science Breakout Session, Annual Nebraska Conference for Undergraduate Women in Mathematics (NCUWM), 2018. 
 
 <h4><b>Panel</b></h4>
-- Panelist, U.S. National Science Foundation (NSF), 2023. 
 - Co-Moderator, "How Can We Build Trustworthy Cloud Systems and Run XaaS Securely?" CAD for Assurance, IEEE Council on Electronic Design Automation (CEDA), 2025.
+- Panelist, U.S. National Science Foundation (NSF), 2023. 
 - Chair/Moderator, "Building a Career at IBM: Panel of Under 6 Years at IBM", IBM, March, June & October 2022. 
 - Panelist, "How do we evaluate the impact of hardware security research?" Top Picks in Hardware and Embedded Security Workshop co-located with International Conference on Computer Aided Design (ICCAD), November 2019. 
 - Chair/Moderator, "Student Panel in the Graduate Information Days", Department of Computer Science and Engineering in the University of Nebraska – Lincoln, November 2017 & March 2018. 
