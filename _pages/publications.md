@@ -16,10 +16,12 @@ nav: true
 
 </div> -->
 
-<!-- [[Google Scholar]](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"} -->
+[[Google Scholar]](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"}
+
+[P26]. Zhongze Tang, Zichen Zhu, <b><u>Mengmei Ye</u></b>, Yao Liu, Sheng Wei. "Privacy-Preserving Multimedia Mobile Cloud Computing Using Cost-Effective Protective Perturbation." The Workshop on Network and Operating System Support for Digital Audio and Video (NOSSDAV) co-located with the ACM Multimedia Systems Conference (MMSys), March 2025. 
 
 [P25]. <b><u>Mengmei Ye</u></b>, Sandhya Koteshwara, Derren Dunn, Hubertus Franke, Chris Porter, Tobin Feldman-Fitzthum, Angelo Ruocco, Daniele Buono, Claudio Carvalho. "Position Paper: From Confidential Computing to Zero Trust, Come Along for the (Bumpy?) Ride." The International Workshop on Hardware and Architectural Support for Security and Privacy (HASP) in conjunction with IEEE/ACM International Symposium on Microarchitecture (MICRO), November 2024.
-[[PDF]](https://dl.acm.org/doi/10.1145/3696843.3696848){:target="_blank"}
+[[PDF]](https://dl.acm.org/doi/10.1145/3696843.3696848){:target="_blank"}[[Keynote Slide Deck]](https://www.haspworkshop.org/2024/assets/Keynote%202.pdf)
 
 [P24] Apoorve Mohan, <b><u>Mengmei Ye</u></b>, Hubertus Franke, Mudhakar Srivatsa, Zhuoran Liu and Nelson Gonzale. “Securing AI Inference in the Cloud: Is CPU-GPU Confidential Computing Ready?” IEEE International Conference on Cloud Computing (CLOUD), July 2024.
 (Acceptance rate: 19.4%)
