@@ -18,20 +18,22 @@ nav: true
 
 [[Google Scholar]](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"}
 
-[P26]. Zhongze Tang, Zichen Zhu, <b><u>Mengmei Ye</u></b>, Yao Liu, Sheng Wei. "Privacy-Preserving Multimedia Mobile Cloud Computing Using Cost-Effective Protective Perturbation." The Workshop on Network and Operating System Support for Digital Audio and Video (NOSSDAV) co-located with the ACM Multimedia Systems Conference (MMSys), March 2025. 
+[P27]. Zhongze Tang, Zichen Zhu, <b><u>Mengmei Ye</u></b>, Yao Liu, Sheng Wei. "Privacy-Preserving Multimedia Mobile Cloud Computing Using Cost-Effective Protective Perturbation." The Workshop on Network and Operating System Support for Digital Audio and Video (NOSSDAV) co-located with the ACM Multimedia Systems Conference (MMSys), March 2025. 
 
-[P25]. <b><u>Mengmei Ye</u></b>, Sandhya Koteshwara, Derren Dunn, Hubertus Franke, Chris Porter, Tobin Feldman-Fitzthum, Angelo Ruocco, Daniele Buono, Claudio Carvalho. "Position Paper: From Confidential Computing to Zero Trust, Come Along for the (Bumpy?) Ride." The International Workshop on Hardware and Architectural Support for Security and Privacy (HASP) in conjunction with IEEE/ACM International Symposium on Microarchitecture (MICRO), November 2024.
+[P26]. <b><u>Mengmei Ye</u></b>, Sandhya Koteshwara, Derren Dunn, Hubertus Franke, Chris Porter, Tobin Feldman-Fitzthum, Angelo Ruocco, Daniele Buono, Claudio Carvalho. "Position Paper: From Confidential Computing to Zero Trust, Come Along for the (Bumpy?) Ride." The International Workshop on Hardware and Architectural Support for Security and Privacy (HASP) in conjunction with IEEE/ACM International Symposium on Microarchitecture (MICRO), November 2024.
 [[PDF]](https://dl.acm.org/doi/10.1145/3696843.3696848){:target="_blank"}[[Keynote Slide Deck]](https://www.haspworkshop.org/2024/assets/Keynote%202.pdf)
 
-[P24] Apoorve Mohan, <b><u>Mengmei Ye</u></b>, Hubertus Franke, Mudhakar Srivatsa, Zhuoran Liu and Nelson Gonzale. “Securing AI Inference in the Cloud: Is CPU-GPU Confidential Computing Ready?” IEEE International Conference on Cloud Computing (CLOUD), July 2024.
+[P25]. (Poster) <b><u>Mengmei Ye</u></b>, Apoorve Mohan, Hubertus Franke. “vLLM in Confidential CPU-GPU Enclaves: Does it Perform?” IEEE AI Compute Symposium (AICS), November 2024. 
+
+[P24] Apoorve Mohan, <b><u>Mengmei Ye</u></b>, Hubertus Franke, Mudhakar Srivatsa, Zhuoran Liu, Nelson Gonzale. “Securing AI Inference in the Cloud: Is CPU-GPU Confidential Computing Ready?” IEEE International Conference on Cloud Computing (CLOUD), July 2024.
 (Acceptance rate: 19.4%)
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/10643934){:target="_blank"}
 
-[P23] Wei Ren, Sandhya Koteshwara, <b><u>Mengmei Ye</u></b>, Hubertus Franke and Deming Chen. “S2TAR-Cloud: Shared Secure Trusted Accelerators with Reconfiguration for Machine Learning in the Cloud.” IEEE International Conference on Cloud Computing (CLOUD), July 2024.
+[P23] Wei Ren, Sandhya Koteshwara, <b><u>Mengmei Ye</u></b>, Hubertus Franke, Deming Chen. “S2TAR-Cloud: Shared Secure Trusted Accelerators with Reconfiguration for Machine Learning in the Cloud.” IEEE International Conference on Cloud Computing (CLOUD), July 2024.
 (Acceptance rate: 19.4%)
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/10643939){:target="_blank"}
 
-[P22] Angelo Ruocco, Chris Porter, Claudio Carvalho, Daniele Buono, Derren Dunn, Hubertus Franke, James Bottomley, Marcio Silva, <b><u>Mengmei Ye</u></b>, Niteesh Dubey, and Tobin Feldman-Fitzthum (author list ordered by alphabet). “Aligning Confidential Computing with Cloud-native ML Platforms.” Workshop on Artificial Intelligence System with Confidential Computing (AISCC), co-located with Network and Distributed System Security (NDSS) Symposium, February 2024. 
+[P22] Angelo Ruocco, Chris Porter, Claudio Carvalho, Daniele Buono, Derren Dunn, Hubertus Franke, James Bottomley, Marcio Silva, <b><u>Mengmei Ye</u></b>, Niteesh Dubey, Tobin Feldman-Fitzthum (author list ordered by alphabet). “Aligning Confidential Computing with Cloud-native ML Platforms.” Workshop on Artificial Intelligence System with Confidential Computing (AISCC), co-located with Network and Distributed System Security (NDSS) Symposium, February 2024. 
 [[PDF]](https://www.ndss-symposium.org/ndss-paper/auto-draft-537){:target="_blank"}
 
 [P21] Vikram Narayanan, Claudio Carvalho, Angelo Ruocco, Gheorghe Almási, James Bottomley, <b><u>Mengmei Ye</u></b>, Tobin Feldman-Fitzthum, Daniele Buono, Hubertus Franke, Anton Burtsev. "Remote Attestation of Confidential VMs Using Ephemeral vTPMs." Annual Computer Security Applications Conference (ACSAC), December 2023.
@@ -41,7 +43,7 @@ nav: true
 [P20] (Exhibitor Forum) <b><u>Mengmei Ye</u></b>, Derren Dunn. "The Cost of Flexibility and Security in Cloud-Based HPC – A Case Study Running EDA Workloads with Confidential Computing Technology." International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), November 2023. 
 [[Details]](https://sc23.supercomputing.org/proceedings/exhibitor_forum/exhibitor_forum_pages/exforum122.html){:target="_blank"}
 
-[P19] <b><u>Mengmei Ye</u></b>, Angelo Ruocco, Daniele Buono, James Bottomley, and Hubertus Franke. "Free the Turtles: Removing Nested Virtualization for Performance and Confidentiality in the Cloud." IEEE International Conference on Cloud Computing (IEEE CLOUD), July 2023.
+[P19] <b><u>Mengmei Ye</u></b>, Angelo Ruocco, Daniele Buono, James Bottomley, Hubertus Franke. "Free the Turtles: Removing Nested Virtualization for Performance and Confidentiality in the Cloud." IEEE International Conference on Cloud Computing (IEEE CLOUD), July 2023.
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/10255007){:target="_blank"}[[Code]](https://github.com/Secondary-VM){:target="_blank"}
 
 [P18] Wei Ren, William Kozlowski, Sandhya Koteshwara, <b><u>Mengmei Ye</u></b>, Hubertus Franke, Deming Chen. “AccShield: A New Trusted Execution Environment with Machine-Learning Accelerators.” Design Automation Conference (DAC), July 2023.
