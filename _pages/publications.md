@@ -27,11 +27,13 @@ nav: true
 [[Details]](https://documentation.kvant.cloud/blog/2025-05-20-confidential_ai/){:target="_blank"}
 
 [P27]. Zhongze Tang, Zichen Zhu, <b><u>Mengmei Ye</u></b>, Yao Liu, Sheng Wei. "Privacy-Preserving Multimedia Mobile Cloud Computing Using Cost-Effective Protective Perturbation." The Workshop on Network and Operating System Support for Digital Audio and Video (NOSSDAV) co-located with the ACM Multimedia Systems Conference (MMSys), March 2025. 
+[[PDF]](https://dl.acm.org/doi/abs/10.1145/3712678.3721879){:target="_blank"}
 
 [P26]. <b><u>Mengmei Ye</u></b>, Sandhya Koteshwara, Derren Dunn, Hubertus Franke, Chris Porter, Tobin Feldman-Fitzthum, Angelo Ruocco, Daniele Buono, Claudio Carvalho. "Position Paper: From Confidential Computing to Zero Trust, Come Along for the (Bumpy?) Ride." The International Workshop on Hardware and Architectural Support for Security and Privacy (HASP) in conjunction with IEEE/ACM International Symposium on Microarchitecture (MICRO), November 2024.
-[[PDF]](https://dl.acm.org/doi/10.1145/3696843.3696848){:target="_blank"}[[Keynote Slide Deck]](https://www.haspworkshop.org/2024/assets/Keynote%202.pdf)
+[[PDF]](https://dl.acm.org/doi/10.1145/3696843.3696848){:target="_blank"}[[Keynote Slide Deck]](https://www.haspworkshop.org/2024/slides/Keynote%202.pdf)
 
 [P25]. (Poster) <b><u>Mengmei Ye</u></b>, Apoorve Mohan, Hubertus Franke. “vLLM in Confidential CPU-GPU Enclaves: Does it Perform?” IEEE AI Compute Symposium (AICS), November 2024. 
+[[Abstract]](https://research.ibm.com/publications/vllm-in-confidential-cpu-gpu-enclaves-does-it-perform){:target="_blank"}
 
 [P24] Apoorve Mohan, <b><u>Mengmei Ye</u></b>, Hubertus Franke, Mudhakar Srivatsa, Zhuoran Liu, Nelson Gonzale. “Securing AI Inference in the Cloud: Is CPU-GPU Confidential Computing Ready?” IEEE International Conference on Cloud Computing (CLOUD), July 2024.
 (Acceptance rate: 19.4%)
