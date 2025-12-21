@@ -10,6 +10,8 @@ nav: true
 
 Organize your courses by years, topics, or universities, however you like! -->
 
+- `Client and Partner Success Award`, IBM, September 2025. 
+
 - `Distinguished Paper with Artifacts`, Annual Computer Security Applications Conference (ACSAC), December 2023.
 
 - <b>Samsung Breakthroughs That Matter Award</b>, MIT Hacking Medicine Grand Hack, May 2019.      

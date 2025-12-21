@@ -18,6 +18,14 @@ nav: true
 
 [[Google Scholar]](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"}
 
+[P29]. (Blog Post) <b><u>Mengmei Ye</u></b>, Claudio Carvalho, Niteesh Dubey, Ariel Adam, Pradipta Banerjee, Jens Freimann, Emanuele Giuseppe Esposito. "The power of confidential containers on Red Hat OpenShift with NVIDIA GPUs." Red Hat, October 2025.
+[[Details]](https://www.redhat.com/en/blog/power-confidential-containers-red-hat-openshift-nvidia-gpus){:target="_blank"}
+[[Demo on Intel TDX]](https://www.youtube.com/watch?v=7Nf8RArlbSo){:target="_blank"}
+[[Demo on AMD SEV-SNP]](https://www.youtube.com/watch?v=0oqW0Rdo_OM){:target="_blank"}
+
+[P28]. (Blog Post) Angel Nunez Mencias, Chandra Shekhar Reddy Potula, Daniele Buono, Claudio Carvalho, <b><u>Mengmei Ye</u></b>. "Advancing Confidential AI with Confidential Computing." Phoenix Technologies, May 2025. 
+[[Details]](https://documentation.kvant.cloud/blog/2025-05-20-confidential_ai/){:target="_blank"}
+
 [P27]. Zhongze Tang, Zichen Zhu, <b><u>Mengmei Ye</u></b>, Yao Liu, Sheng Wei. "Privacy-Preserving Multimedia Mobile Cloud Computing Using Cost-Effective Protective Perturbation." The Workshop on Network and Operating System Support for Digital Audio and Video (NOSSDAV) co-located with the ACM Multimedia Systems Conference (MMSys), March 2025. 
 
 [P26]. <b><u>Mengmei Ye</u></b>, Sandhya Koteshwara, Derren Dunn, Hubertus Franke, Chris Porter, Tobin Feldman-Fitzthum, Angelo Ruocco, Daniele Buono, Claudio Carvalho. "Position Paper: From Confidential Computing to Zero Trust, Come Along for the (Bumpy?) Ride." The International Workshop on Hardware and Architectural Support for Security and Privacy (HASP) in conjunction with IEEE/ACM International Symposium on Microarchitecture (MICRO), November 2024.
