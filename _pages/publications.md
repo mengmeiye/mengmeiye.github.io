@@ -7,15 +7,6 @@ title: Publications
 nav: true
 ---
 
-<!-- <div class="publications">
-
-{% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div> -->
-
 [[Google Scholar]](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"}
 
 [P32] (Talk) <b><u>Mengmei Ye</u></b>, Chen Wang, A Shared KV Cache for vLLM: Reuse, Failover, and Elastic Scaling, KubeCon Cloud Native AI + Inference Day, November, 2026. 

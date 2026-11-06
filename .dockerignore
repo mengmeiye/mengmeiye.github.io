@@ -1,3 +1,4 @@
-_site/
-.git/
-assets/
+# Only the Gemfiles are needed to build the preview image
+*
+!Gemfile
+!Gemfile.lock
