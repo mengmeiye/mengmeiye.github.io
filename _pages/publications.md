@@ -18,6 +18,12 @@ nav: true
 
 [[Google Scholar]](https://scholar.google.com/citations?user=ZfFRiz0AAAAJ&hl){:target="_blank"}
 
+[P32] (Talk) <b><u>Mengmei Ye</u></b>, Chen Wang, A Shared KV Cache for vLLM: Reuse, Failover, and Elastic Scaling, KubeCon Cloud Native AI + Inference Day, November, 2026. 
+
+[P31] (Talk) <b><u>Mengmei Ye</u></b>, Bongwoo Bak, Maroon Ayoub, Where the Blocks Live: Tier-Aware KV-Cache Routing for vLLM at Scale, PyTorch Conference, October 2026. 
+
+[P30] (Talk) <b><u>Mengmei Ye</u></b>, Chen Wang, Offloading KV Cache to Secondary Memory: A Three-Tier Hierarchy Emulator using vLLM, PyTorch Conference, October 2026. 
+
 [P29]. (Blog Post) <b><u>Mengmei Ye</u></b>, Claudio Carvalho, Niteesh Dubey, Ariel Adam, Pradipta Banerjee, Jens Freimann, Emanuele Giuseppe Esposito. "The power of confidential containers on Red Hat OpenShift with NVIDIA GPUs." Red Hat, October 2025.
 [[Details]](https://www.redhat.com/en/blog/power-confidential-containers-red-hat-openshift-nvidia-gpus){:target="_blank"}
 [[Demo on Intel TDX]](https://www.youtube.com/watch?v=7Nf8RArlbSo){:target="_blank"}
@@ -60,7 +66,7 @@ nav: true
 (Acceptance rate: 23%)
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/10247768){:target="_blank"}
 
-[P17] (Presentation) <b><u>Mengmei Ye</u></b>, Angelo Ruocco. “No More Turtles: The SecondaryVM Framework - An Alternative to Nested Virtualization.” KVM Forum, September 2022. 
+[P17] (Talk) <b><u>Mengmei Ye</u></b>, Angelo Ruocco. “No More Turtles: The SecondaryVM Framework - An Alternative to Nested Virtualization.” KVM Forum, September 2022. 
 [[Details]](https://sched.co/15jKi){:target="_blank"}
 
 [P16] (Blog Post) <b><u>Mengmei Ye</u></b>, Angelo Ruocco, Daniele Buono, James Bottomley, Hubertus Franke. “An Alternative to Nested Virtualization - Why It's Time To "Free the Turtles.” IBM Research Blog, September 2022. 

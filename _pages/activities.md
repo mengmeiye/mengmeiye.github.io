@@ -15,8 +15,9 @@ Organize your courses by years, topics, or universities, however you like! -->
 - Workshop Chair, ACM International Conference on Computing Frontiers (CF), 2026. 
 - Guest Editor, IEEE Transactions on Circuits and Systems I (TCAS-I) Special Issue on Emerging Hardware Security and Trust Technologies, 2024.
 - IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
+    - Tutorial Co-Chair, 2027. 
     - Ph.D. Competition Co-Chair, 2023 - 2025. 
-    - TPC, 2023 - 2026. 
+    - TPC, 2023 - 2027. 
     - Session Chair, 2022 & 2023.
 - Design Automation Conference (DAC)
     - TPC, 2023 & 2024. 
@@ -26,9 +27,9 @@ Organize your courses by years, topics, or universities, however you like! -->
     - General Co-Chair, 2024. 
     - Industry Liaison, 2022.
 - TPC, IEEE Cloud, 2025.
-- TPC, International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC) co-located with International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2024 - 2025. 
-- TPC, Workshop on Artificial Intelligence System with Confidential Computing (AISCC) co-located with Network and Distributed
-System Security (NDSS) Symposium, 2024.
+- TPC, International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC) co-located with International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2024 - 2026. 
+- Poster Reviewer, International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2026. 
+- TPC, Workshop on Artificial Intelligence System with Confidential Computing (AISCC) co-located with Network and Distributed System Security (NDSS) Symposium, 2024.
 - Selection Committee, Workshop on the Future of Computing Architectures (FOCA), 2022.  
 - TPC, New Frontiers in Adversarial Machine Learning (AdvML Frontiers @ ICML), 2022. 
 - Shadow TPC, 42nd IEEE Symposium on Security and Privacy (S&P), 2021. 
